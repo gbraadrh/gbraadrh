@@ -2,5 +2,6 @@
 
 ## About
 
-  This account is Gerard Braad's account for Red Hat. All public and Open Source contributions happen from
-  [gbraad](https://github.com/gbraad)
+  This is Gerard Braad's account for [@RedHatOfficial](https://github.com/RedHatOfficial).
+  
+  All public and Open Source contributions happen from [@gbraad](https://github.com/gbraad)
